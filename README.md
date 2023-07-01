@@ -1,6 +1,7 @@
 # PingAnMoTuo
 
 北京平安摩托三者险预约
+禁止用来盈利！！！
 
 ## 编译mac
 
@@ -8,7 +9,7 @@ fyne package -os darwin -icon img.png
 
 ## 编译安卓
 
-fyne package -os android -appID com.example.motuopingan -icon img.png &&
+fyne package -os android -appID com.example.motuopingan -icon img.png 
 
 ## 编译ios
 
@@ -39,4 +40,5 @@ https://zhuanlan.zhihu.com/p/26182135
 平安竟然不愿意给接口加固。鄙视
 
 ![Xnip2023-06-30_17-57-24](https://github.com/zhaoboy9692/PingAnMoTuo/assets/35800413/a6f27b7a-7e69-491e-b2c7-f911986c5a44)
+
 
